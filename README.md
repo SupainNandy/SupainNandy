@@ -1,3 +1,4 @@
+# SUPAIN NANDY
 # 💫 About Me:
 Currently building full-stack applications with the MERN stack<br><br>Open to collaborating on interesting open-source and full-stack projects<br><br>Interested in Backend Engineering, System Design & Scalable Architecture<br><br>Currently exploring Microservices, Redis, Docker, AI & Agentic Applications<br><br>Ask me about React, Node.js, Express, MongoDB, PostgreSQL, Prisma & REST APIs<br><br>Fun fact: I enjoy learning new technologies by building real-world projects
 
