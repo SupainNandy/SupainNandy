@@ -1,18 +1,17 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Supain%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <h1>Hi there, I'm Supain Nandy 👋</h1>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN)+%40+Riz+Software+Consultancy;Building+Scalable+%26+Modern+Web+Applications;Exploring+Redis%2C+Docker%2C+Microservices+%26+AI+Agents;Learning+New+Tech+by+Shipping+Real-World+Projects" alt="Typing SVG" />
-  </a>
+  <h3>
+    🚀 Full-Stack Developer (MERN) at Riz Software Consultancy<br/>
+    ⚡ Building Scalable, Modern Web Applications & Backend Systems
+  </h3>
 
   <p align="center">
     📍 <b>Kolkata, India</b>
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Social & Contact Badges (100% Reliable shields.io) -->
   <p align="center">
     <a href="https://supain-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-supain--portfolio.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
@@ -23,7 +22,13 @@
     <a href="mailto:supainnandy1234@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=SupainNandy&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </p>
+
+  <!-- Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-2ea44f?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/github/followers/SupainNandy?label=Followers&style=flat-square&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/SupainNandy?label=Total%20Stars&style=flat-square&logo=github" alt="Stars" />
   </p>
 
 </div>
@@ -55,10 +60,6 @@ const supain = {
 ## 💻 Tech Stack & Tools
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,nodejs,express,mongodb,postgres,prisma,redis,firebase,docker,git,github,vercel,npm&perline=9" alt="Tech Stack Icons" />
-
-  <br/><br/>
 
 | Layer | Technologies |
 | :---: | :--- |
@@ -95,7 +96,6 @@ const supain = {
 
 ---
 
-<div align="center">
-  <p><b>🤝 Let's connect and build something scalable together!</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" alt="Footer Banner"/>
-</div>
+<p align="center">
+  <b>🤝 Let's connect and build something scalable together!</b>
+</p>
