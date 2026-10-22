@@ -68,7 +68,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SupainNandy&icon=0&color=0" alt="Profile views" />
-</p>
