@@ -54,8 +54,8 @@
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| 🚗 **Royal Route** | Full-stack car rental platform: vehicle browsing, bookings, JWT auth, image uploads, AI integration | React, Redux Toolkit, Vite, Node.js, Express, MongoDB, ImageKit | [Frontend](https://github.com/SupainNandy/car-rental-frontend) · [Backend](https://github.com/SupainNandy/car-rental-backend) |
-| 📋 **Kanban Board** | Task-management backend with real-time updates | Node.js, Express, MongoDB, Socket.IO, JWT, Firebase Admin | [Repo](https://github.com/SupainNandy/kanban-board) |
+| 🚗 **Royal Route** | Full-stack car rental platform: vehicle browsing, bookings, JWT auth, image uploads, AI integration | React, Redux Toolkit, Vite, Node.js, Express, MongoDB, ImageKit | [Frontend](https://github.com/SupainNandy/car-rental-frontend) · [Backend](https://github.com/SupainNandy/car-rental-backend) |  [Repo](https://royalroute.vercel.app/)
+| 📋 **Kanban Board** | Task-management backend with real-time updates | Node.js, Express, MongoDB, Socket.IO, JWT, Firebase Admin | [Repo](https://github.com/SupainNandy/kanban-board) |  [Repo](https://github.com/SupainNandy/kanban-board)
 | 💬 **Chat Application** | Full-stack messaging app | React, Vite, Node.js | [Repo](https://github.com/SupainNandy/Chat_Apllications) · [Live](https://chat-apllications.vercel.app) |
 | 🌐 **Portfolio** | Personal portfolio website | React, Vite | [Repo](https://github.com/SupainNandy/SupainPortfolio) · [Live](https://supain-portfolio.vercel.app) |
 
