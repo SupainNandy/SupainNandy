@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Supain%20Nandy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Backend%20%26%20System%20Design&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Supain%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -177,5 +177,5 @@ Personal developer portfolio showcasing projects, skills, and work experience.
   <a href="mailto:supainnandy1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </div>
