@@ -161,7 +161,6 @@ Personal developer portfolio showcasing projects, skills, and work experience.
 <div align="center">
   <img width="85%" src="https://ghchart.rshah.org/SupainNandy" alt="Contribution Chart" />
 </div>
-
 ---
 
 ## Let's Connect
