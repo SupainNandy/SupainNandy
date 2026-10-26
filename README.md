@@ -149,20 +149,6 @@ Personal developer portfolio showcasing projects, skills, and work experience.
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.shion.dev/api?username=SupainNandy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SupainNandy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img height="175em" src="https://streak-stats.demolab.com/?user=SupainNandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="85%" src="https://ghchart.rshah.org/SupainNandy" alt="Contribution Chart" />
-</div>
-
----
 
 ## Let's Connect
 
