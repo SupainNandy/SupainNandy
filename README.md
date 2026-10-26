@@ -147,7 +147,6 @@ Personal developer portfolio showcasing projects, skills, and work experience.
 
 ---
 
-## GitHub Stats
 
 
 ## Let's Connect
